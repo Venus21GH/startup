@@ -1,0 +1,63 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background-color: black;
+  background: url(https://cdn-bnofo.nitrocdn.com/YCOqbulOWPTbigaUOflqfvBCmkFuxfWf/assets/images/optimized/rev-f6183f4/wp-content/uploads/2023/01/Is-the-Samsung-Galaxy-Book-3-Ultra-touch-screen-Is-the-Samsung-Galaxy-Book3-Ultra-touch-screen-Is-the-Samsung-Galaxy-Book-3-Ultra-touchscreen-768x330-718x.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+}
+
+h1
+{
+  color: crimson;
+  justify-content: center;
+  box-shadow: darkgray;
+  font-size: 3rem;
+}
+
+hr
+{
+  border-color: #ee4b08;
+  border-width: 3px;
+  max-width: 65px;
+}
+
+.buffer
+{
+  height: 10rem;
+}
+
+strong
+{
+  color: crimson;
+}
+
+.btn 
+{
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-primary
+{
+  background: #f05f44;
+  border-color: #f05f44;;
+}
+
+.btn-primary:hover
+{
+  background-color: darkgray;
+  border-color: darkgray;
+  border-width: 4px;
+}
+
+.btn-xl 
+{
+  padding: 1rem 2rem;
+}
